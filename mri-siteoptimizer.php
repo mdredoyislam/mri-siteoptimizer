@@ -3,7 +3,7 @@
  * Plugin Name: MRI SiteOptimizer
  * Plugin URI:  https://github.com/mdredoyislam/mri-siteoptimizer
  * Description: Clean unlinked images, remove unnecessary files, compress images, lazy load, and optimize your database — all in one lightweight plugin.
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Md Redpy Islam
  * Author URI:  https://github.com/mdredoyislam
  * License:     GPL v2 or later
