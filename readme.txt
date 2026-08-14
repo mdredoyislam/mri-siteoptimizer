@@ -4,7 +4,7 @@ Tags: optimize, image compression, database cleaner, lazy load, performance
 Requires at least: 5.6
 Requires PHP: 7.4
 Tested up to: 7.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,6 +71,9 @@ For support, documentation, and feature requests:
 * WordPress.org Support Forums: Coming soon
 
 == Changelog ==
+
+= 1.0.2 =
+* Updated tags count and plugin optimization fixes
 
 = 1.0.1 =
 * Compatibility tested with WordPress 7.0

@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'MRI_SITEOPTIMIZER_VERSION',  '1.0.1' );
+define( 'MRI_SITEOPTIMIZER_VERSION',  '1.0.2' );
 define( 'MRI_SITEOPTIMIZER_FILE',     __FILE__ );
 define( 'MRI_SITEOPTIMIZER_DIR',      plugin_dir_path( __FILE__ ) );
 define( 'MRI_SITEOPTIMIZER_URL',      plugin_dir_url( __FILE__ ) );
